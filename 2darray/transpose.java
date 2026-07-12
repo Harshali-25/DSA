@@ -1,4 +1,3 @@
-import java.util.*;
 public class transpose {
     public static int [][] transposemat(int matrix[][]){
         int rows= matrix.length;

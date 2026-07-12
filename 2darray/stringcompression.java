@@ -1,4 +1,3 @@
-import java.util.*;
 public class stringcompression {
     public static String compress(String str){
         String newstr= "";

@@ -1,4 +1,3 @@
-import java.util.*;
 public class spiralmatrix{
     public static void printspiral(int matrix[][]){
         int startrow= 0;
