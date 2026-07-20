@@ -12,5 +12,5 @@ public class queueJCF {
             System.out.println(q.peek());
             q.remove();
         }
-    };
+    }
 }
